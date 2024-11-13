@@ -31,6 +31,8 @@ The integration of diverse sensor data from Internet of Things (IoT) devices, su
 ## Reference Slide
 
 ![image](https://github.com/user-attachments/assets/24311f4e-27de-4f1c-98ab-e0566e45a47a)
+![image](https://github.com/user-attachments/assets/5b5049e9-1192-4a8c-bdfa-619cafea7aea)
+
 
 You can view the full slide deck here:  
 [Data Standardization in Positioning: The Role of Large Language Models - Full Slide (PDF)](./Reference%20Slide_Data%20Standardization%20in%20Positioning%20The%20Role%20of%20Large%20Language%20Models.pdf)
