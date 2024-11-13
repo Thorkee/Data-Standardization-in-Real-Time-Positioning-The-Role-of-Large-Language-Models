@@ -15,12 +15,12 @@ The paper explores the use of Large Language Models (LLMs) to automate the stand
   Email: [ju.lin@connect.polyu.hk](mailto:ju.lin@connect.polyu.hk)
 
 - **Xiwei Bai** ([@baaixw](https://github.com/baaixw))  
-  Member of IEEE  
+  Member, IEEE  
   Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University  
   Email: [x.w.bai@polyu.edu.hk](mailto:x.w.bai@polyu.edu.hk)
 
 - **Li-Ta Hsu** ([@qmohsu](https://github.com/qmohsu))  
-  Senior Member of IEEE  
+  Senior Member, IEEE  
   Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University  
   Email: [lt.hsu@polyu.edu.hk](mailto:lt.hsu@polyu.edu.hk)
 
