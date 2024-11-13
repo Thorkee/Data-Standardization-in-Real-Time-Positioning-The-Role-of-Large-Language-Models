@@ -1,6 +1,8 @@
 # Data Standardization in Positioning: The Role of Large Language Models
 
-This repository accompanies the paper *"Data Standardization in Positioning: The Role of Large Language Models,"* which has been submitted to the IEEE Internet of Things (IoT) Journal. The paper explores the use of Large Language Models (LLMs) to automate the standardization of heterogeneous sensor data, thereby improving data compatibility and positioning accuracy in IoT environments.
+This repository accompanies the paper *"Data Standardization in Positioning: The Role of Large Language Models,"* which has been submitted to the IEEE Internet of Things (IoT) Journal. The journal manuscript is an extended version of the conference paper presented at the **International Conference on Indoor Positioning and Indoor Navigation (IPIN 2024)**. The conference paper can be accessed on arXiv: [Exploring the Feasibility of Automated Data Standardization using Large Language Models for Seamless Positioning](https://arxiv.org/abs/2408.12080).
+
+The paper explores the use of Large Language Models (LLMs) to automate the standardization of heterogeneous sensor data, thereby improving data compatibility and positioning accuracy in IoT environments.
 
 ## Authors
 
@@ -28,5 +30,7 @@ The integration of diverse sensor data from Internet of Things (IoT) devices, su
 
 ## Reference Slide
 
-You can refer to the accompanying slide for more details on the project:  
-[Reference Slide (PDF)](./Reference%20Slide_Data%20Standardization%20in%20Positioning%20The%20Role%20of%20Large%20Language%20Models.pdf)
+![image](https://github.com/user-attachments/assets/24311f4e-27de-4f1c-98ab-e0566e45a47a)
+
+You can view the full slide deck here:  
+[Data Standardization in Positioning: The Role of Large Language Models - Full Slide (PDF)](./Reference%20Slide_Data%20Standardization%20in%20Positioning%20The%20Role%20of%20Large%20Language%20Models.pdf)
