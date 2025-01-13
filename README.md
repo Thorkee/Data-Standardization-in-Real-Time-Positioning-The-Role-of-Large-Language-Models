@@ -6,23 +6,33 @@ The paper explores the use of Large Language Models (LLMs) to automate the stand
 
 ## Authors
 
-- **Max Jwo Lem Lee** ([@maxystory](https://github.com/maxystory))  
-  Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University  
-  Email: [maxjl.lee@connect.polyu.hk](mailto:maxjl.lee@connect.polyu.hk)
+### Max Jwo Lem Lee
+[![GitHub](https://img.shields.io/badge/GitHub-@maxystory-blue)](https://github.com/maxystory)
+- Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
+- Email: [maxjl.lee@connect.polyu.hk](mailto:maxjl.lee@connect.polyu.hk)
 
-- **Ju Lin** ([@thorkee](https://github.com/thorkee))  
-  Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University  
-  Email: [ju.lin@connect.polyu.hk](mailto:ju.lin@connect.polyu.hk)
+---
 
-- **Xiwei Bai** ([@baaixw](https://github.com/baaixw))  
-  Member, IEEE  
-  Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University  
-  Email: [x.w.bai@polyu.edu.hk](mailto:x.w.bai@polyu.edu.hk)
+### Ju Lin
+[![GitHub](https://img.shields.io/badge/GitHub-@thorkee-blue)](https://github.com/thorkee) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?view_op=list_works&hl=en)
+- Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
+- Email: [ju.lin@connect.polyu.hk](mailto:ju.lin@connect.polyu.hk)
 
-- **Li-Ta Hsu** ([@qmohsu](https://github.com/qmohsu))  
-  Senior Member, IEEE  
-  Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University  
-  Email: [lt.hsu@polyu.edu.hk](mailto:lt.hsu@polyu.edu.hk)
+---
+
+### Xiwei Bai
+[![GitHub](https://img.shields.io/badge/GitHub-@baaixw-blue)](https://github.com/baaixw) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com.hk/citations?user=bnTJHXYAAAAJ&hl=en)
+- Member, IEEE
+- Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
+- Email: [x.w.bai@polyu.edu.hk](mailto:x.w.bai@polyu.edu.hk)
+
+---
+
+### Li-Ta Hsu *(Corresponding Author)*
+[![GitHub](https://img.shields.io/badge/GitHub-@qmohsu-blue)](https://github.com/qmohsu) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com.hk/citations?user=GxfOCUMAAAAJ&hl=en)
+- Senior Member, IEEE
+- Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
+- Email: [lt.hsu@polyu.edu.hk](mailto:lt.hsu@polyu.edu.hk)
 
 ## Abstract
 
