@@ -8,7 +8,7 @@ The paper explores the use of Large Language Models (LLMs) to automate the stand
 
 # Table of Contents
 1. [Contributions](#-contributions)
-2. [Framework Overview](#framework-overview)
+2. [Framework Overview](#-framework-overview)
    - [Dual-Stage Approach](#dual-stage-approach)
    - [Single-Stage Approach](#single-stage-approach)
    - [Unit Tests for Data Integrity](#unit-tests-for-data-integrity)
