@@ -16,14 +16,18 @@ The paper explores the use of Large Language Models (LLMs) to automate the stand
 ---
 
 ### Ju Lin
-[![GitHub](https://img.shields.io/badge/GitHub-@thorkee-green)](https://github.com/thorkee) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?view_op=list_works&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-@thorkee-green?logo=github)](https://github.com/thorkee)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?view_op=list_works&hl=en)
+[![Website](https://img.shields.io/badge/Personal-Website-black?logo=safari)](https://julin.org/)
 - Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
 - Email: [ju.lin@connect.polyu.hk](mailto:ju.lin@connect.polyu.hk)
 
 ---
 
 ### Xiwei Bai
-[![GitHub](https://img.shields.io/badge/GitHub-@baaixw-green)](https://github.com/baaixw) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com.hk/citations?user=bnTJHXYAAAAJ&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-@baaixw-green?logo=github)](https://github.com/baaixw)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com.hk/citations?user=bnTJHXYAAAAJ&hl=en)
+[![Website](https://img.shields.io/badge/Personal-Website-black?logo=safari)](https://xiweibai.my.canva.site/)
 - Member, IEEE
 - Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
 - Email: [x.w.bai@polyu.edu.hk](mailto:x.w.bai@polyu.edu.hk)
@@ -31,7 +35,9 @@ The paper explores the use of Large Language Models (LLMs) to automate the stand
 ---
 
 ### Li-Ta Hsu *(Corresponding Author)*
-[![GitHub](https://img.shields.io/badge/GitHub-@qmohsu-green)](https://github.com/qmohsu) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com.hk/citations?user=GxfOCUMAAAAJ&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-@qmohsu-green?logo=github)](https://github.com/qmohsu)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com.hk/citations?user=GxfOCUMAAAAJ&hl=en)
+[![Website](https://img.shields.io/badge/Personal-Website-black?logo=safari)](https://www.polyu.edu.hk/aae/people/academic-staff/dr-hsu-li-ta/)
 - Senior Member, IEEE
 - Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
 - Email: [lt.hsu@polyu.edu.hk](mailto:lt.hsu@polyu.edu.hk)
