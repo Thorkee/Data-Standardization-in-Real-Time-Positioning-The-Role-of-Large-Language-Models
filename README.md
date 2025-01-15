@@ -10,6 +10,7 @@ The paper explores the use of Large Language Models (LLMs) to automate the stand
 
 ### Max Jwo Lem Lee
 [![GitHub](https://img.shields.io/badge/GitHub-@maxystory-green)](https://github.com/maxystory)
+[![Website](https://img.shields.io/badge/Personal-Website-black?logo=safari)](https://www.linkedin.com/in/maxae/)
 - Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
 - Email: [maxjl.lee@connect.polyu.hk](mailto:maxjl.lee@connect.polyu.hk)
 
