@@ -1,5 +1,7 @@
 # Enhancing Positioning Accessibility through Large Language Model-Driven Data Standardization
 
+[![Explore our Lab](https://img.shields.io/badge/Explore-PolyU_IPN_Lab-red)](https://www.polyu.edu.hk/aae/ipn-lab/us/index.html)
+
 This repository accompanies the paper *"Enhancing Positioning Accessibility through Large Language Model-Driven Data Standardization,"* which has been submitted to the IEEE Internet of Things (IoT) Journal. The journal manuscript is an extended version of the conference paper presented at the **International Conference on Indoor Positioning and Indoor Navigation (IPIN 2024)**. The conference paper has been indexed by IEEE Xplore: [Exploring the Feasibility of Automated Data Standardization using Large Language Models for Seamless Positioning](https://ieeexplore.ieee.org/abstract/document/10786123).
 
 The paper explores the use of Large Language Models (LLMs) to automate the standardization of heterogeneous sensor data, thereby improving data compatibility and positioning accuracy in IoT environments.
@@ -7,21 +9,21 @@ The paper explores the use of Large Language Models (LLMs) to automate the stand
 ## Authors
 
 ### Max Jwo Lem Lee
-[![GitHub](https://img.shields.io/badge/GitHub-@maxystory-blue)](https://github.com/maxystory)
+[![GitHub](https://img.shields.io/badge/GitHub-@maxystory-green)](https://github.com/maxystory)
 - Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
 - Email: [maxjl.lee@connect.polyu.hk](mailto:maxjl.lee@connect.polyu.hk)
 
 ---
 
 ### Ju Lin
-[![GitHub](https://img.shields.io/badge/GitHub-@thorkee-blue)](https://github.com/thorkee) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?view_op=list_works&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-@thorkee-green)](https://github.com/thorkee) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?view_op=list_works&hl=en)
 - Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
 - Email: [ju.lin@connect.polyu.hk](mailto:ju.lin@connect.polyu.hk)
 
 ---
 
 ### Xiwei Bai
-[![GitHub](https://img.shields.io/badge/GitHub-@baaixw-blue)](https://github.com/baaixw) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com.hk/citations?user=bnTJHXYAAAAJ&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-@baaixw-green)](https://github.com/baaixw) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com.hk/citations?user=bnTJHXYAAAAJ&hl=en)
 - Member, IEEE
 - Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
 - Email: [x.w.bai@polyu.edu.hk](mailto:x.w.bai@polyu.edu.hk)
@@ -29,7 +31,7 @@ The paper explores the use of Large Language Models (LLMs) to automate the stand
 ---
 
 ### Li-Ta Hsu *(Corresponding Author)*
-[![GitHub](https://img.shields.io/badge/GitHub-@qmohsu-blue)](https://github.com/qmohsu) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com.hk/citations?user=GxfOCUMAAAAJ&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-@qmohsu-green)](https://github.com/qmohsu) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com.hk/citations?user=GxfOCUMAAAAJ&hl=en)
 - Senior Member, IEEE
 - Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
 - Email: [lt.hsu@polyu.edu.hk](mailto:lt.hsu@polyu.edu.hk)
