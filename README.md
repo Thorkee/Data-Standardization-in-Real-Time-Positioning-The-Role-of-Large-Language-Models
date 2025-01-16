@@ -1,14 +1,7 @@
 # Enhancing Positioning Accessibility through Large Language Model-Driven Data Standardization
 
-<p align="center">
-  <a href="https://www.polyu.edu.hk/aae/ipn-lab/us/index.html">
-    <img src="https://img.shields.io/badge/Visit-PolyU_IPN_Lab-red" alt="Explore our Lab">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/maxystory/Data-Standardization-in-Real-Time-Positioning-The-Role-of-Large-Language-Models/blob/main/Reference.pdf">
-    <img src="https://img.shields.io/badge/Explore-Reference_Slide-blue" alt="Reference Slide">
-  </a>
-</p>
+[![PolyU IPN Lab](https://img.shields.io/badge/Visit-PolyU_IPN_Lab-red)](https://www.polyu.edu.hk/aae/ipn-lab/us/index.html)
+[![Reference Slide](https://img.shields.io/badge/Explore-Reference_Slide-blue)](https://github.com/maxystory/Data-Standardization-in-Real-Time-Positioning-The-Role-of-Large-Language-Models/blob/main/Reference.pdf)
 
 This repository accompanies the paper *"Enhancing Positioning Accessibility through Large Language Model-Driven Data Standardization,"* which has been submitted to the IEEE Internet of Things (IoT) Journal. The journal manuscript is an extended version of the conference paper presented at the **International Conference on Indoor Positioning and Indoor Navigation (IPIN 2024)**. The conference paper has been indexed by IEEE Xplore: [Exploring the Feasibility of Automated Data Standardization using Large Language Models for Seamless Positioning](https://ieeexplore.ieee.org/abstract/document/10786123).
 
