@@ -12,7 +12,7 @@ The paper explores the use of Large Language Models (LLMs) to automate the stand
 ### Max Jwo Lem Lee
 [![GitHub](https://img.shields.io/badge/GitHub-@maxystory-green)](https://github.com/maxystory)
 [![Website](https://img.shields.io/badge/Personal-Website-black?logo=safari)](https://www.linkedin.com/in/maxae/)
-- Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
+- PhD Candidate, Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
 - Email: [maxjl.lee@connect.polyu.hk](mailto:maxjl.lee@connect.polyu.hk)
 
 ---
@@ -21,7 +21,7 @@ The paper explores the use of Large Language Models (LLMs) to automate the stand
 [![GitHub](https://img.shields.io/badge/GitHub-@thorkee-green?logo=github)](https://github.com/thorkee)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?view_op=list_works&hl=en)
 [![Website](https://img.shields.io/badge/Personal-Website-black?logo=safari)](https://julin.org/)
-- Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
+- Undergraduate, Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
 - Email: [ju.lin@connect.polyu.hk](mailto:ju.lin@connect.polyu.hk)
 
 ---
@@ -31,7 +31,7 @@ The paper explores the use of Large Language Models (LLMs) to automate the stand
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com.hk/citations?user=bnTJHXYAAAAJ&hl=en)
 [![Website](https://img.shields.io/badge/Personal-Website-black?logo=safari)](https://xiweibai.my.canva.site/)
 - Member, IEEE
-- Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
+- Postdoctoral Fellow, Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
 - Email: [x.w.bai@polyu.edu.hk](mailto:x.w.bai@polyu.edu.hk)
 
 ---
@@ -41,7 +41,7 @@ The paper explores the use of Large Language Models (LLMs) to automate the stand
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com.hk/citations?user=GxfOCUMAAAAJ&hl=en)
 [![Website](https://img.shields.io/badge/Personal-Website-black?logo=safari)](https://www.polyu.edu.hk/aae/people/academic-staff/dr-hsu-li-ta/)
 - Senior Member, IEEE
-- Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
+- Associate Head and Associate Professor, Limin Endowed Young Scholar in Aerospace Navigation, Department of Aeronautical and Aviation Engineering, The Hong Kong Polytechnic University
 - Email: [lt.hsu@polyu.edu.hk](mailto:lt.hsu@polyu.edu.hk)
 
 ## Abstract
